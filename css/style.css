@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(white,aliceblue,lightblue);
+}
+
+h1 {
+    font-family: 'Lucida Sans';
+    text-align: center;
+    color: lightblue;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+}
+
+
+form {
+    text-align: center;
+    background-color: lightsteelblue;
+    width: 100%;
+}
